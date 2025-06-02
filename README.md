@@ -1,8 +1,8 @@
 
-<h1 align="center"> Projeto  Interface Controlador </h1>
+<h1 align="left"> Projeto  Interface Controlador </h1>
 
 <p align="center">
- Mais um projeto simples de um controle remoto, Curso de Poo <br/>
+
 </p>
 
 
